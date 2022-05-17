@@ -28,3 +28,5 @@ C:\USERS\JON\.TMP\MYFILE.TXT
 `0` is the metadata header file, `1` contains the first `992` bytes of (encrypted) data, `2` contains the next `992` bytes of (encrypted) data, and so on. Pre-encryption data padding is used such that the file size does not have to be a multiple of 992.
 
 The header file and each numbered content file each contain a encrypted hash of the contents.
+
+Random-access editing is supported; checksums and headers are automatically updated. This is possible to due to the choice of AES-CTR (rather than, for example, AES-CBC).
