@@ -15,6 +15,8 @@ The virtual file system is implemented in Java. When a file is created, a secure
 A file, e.g. "myfile.txt" is stored as a directory of the same name containing a series of numbered files.
 
 ```cmd
+> cd myfile.txt
+
 > tree .
 
 C:\USERS\JON\.TMP\MYFILE.TXT
