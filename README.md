@@ -2,7 +2,7 @@
 
 A BitLocker-like virtual encrypted filesystem created for [CS 6324](https://crs.s3lab.io/cs6324/2021/spring/sched.html).
 
-***Note: In the interest of academic integrity, the source code of this project is not publicly available. Please contact me if you would like a demo.***
+⚠️ ***Note: In the interest of academic integrity, the source code of this project is not publicly available. Please contact me if you would like a demo.***
 
 ## Features
 
